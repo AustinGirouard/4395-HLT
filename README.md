@@ -3,7 +3,7 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 
 ## Getting Started
 
-[Overview of HLT](https://github.com/AustinGirouard/4395-HLT/blob/main/Overview_of_NLP.pdf)
+[Overview of HLT](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%200%20Files/Overview_of_NLP.pdf)
 
 ## Assignment 1: Text Processing with Python
 

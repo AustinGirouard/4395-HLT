@@ -11,4 +11,4 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 [Assignment 1 Breakdown](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%201%20Files/Assignment1_Overview.md)
 
 ## Assignment 2: Word Guessing Game
-[Assignment 2 Code] (https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%202%20Files/main.py)
+[Assignment 2 Code](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%202%20Files/main.py)

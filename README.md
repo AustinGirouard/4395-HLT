@@ -16,7 +16,10 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 ## Asignment 3: WordNet Notebook
 [Assignment 3 Notebook](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%203%20Files/Assignment_3_WordNet.pdf)
 
-## Assignment 4: Ngrams
-[Assignment 4 Program 1](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/program_1.py)  
-[Assignment 4 Program 2](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/program_2.py)  
-[Assignment 4 Overview](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/Overview_of_Ngrams.pdf)  
+## Assignment 4: Sentence Parsing
+[Sentence Parsing]()
+
+## Assignment 5: Ngrams
+[Assignment 5 Program 1](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/program_1.py)  
+[Assignment 5 Program 2](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/program_2.py)  
+[Assignment 5 Overview](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%204%20files/Overview_of_Ngrams.pdf)  

@@ -27,3 +27,6 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 ## Assignment 6: Finding or Building a Corpus
 [Assignment 6 Program](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%206%20Files/main.py)  
 [Assignment 6 Overview](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%206%20Files/Overview_of_Corpus_Creation.pdf)  
+
+## Assignment 7: Text Classification
+[Assignment 7 Notebook](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%207%20Files/Assignment_7_Text_Classification.pdf)  

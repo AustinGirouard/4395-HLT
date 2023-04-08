@@ -30,3 +30,6 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 
 ## Assignment 7: Text Classification
 [Assignment 7 Notebook](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%207%20Files/Assignment_7_Text_Classification.pdf)  
+
+## Assignment 8: ACL Paper Summary
+[Assignment 8 Paper](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%208%20Files/ACL_Paper_Summary.pdf)  

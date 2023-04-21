@@ -33,3 +33,6 @@ Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 
 ## Assignment 8: ACL Paper Summary
 [Assignment 8 Paper](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%208%20Files/ACL_Paper_Summary.pdf)  
+
+## Assignment 9: Text Classification with Keras
+[Assignment 9 Notebook](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%209%20Files/Text_Classification_Keras.pdf)  

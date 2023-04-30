@@ -1,7 +1,19 @@
 # 4395-HLT
 Personal portfolio for 4395 Human Language Technologies with Dr. Karen Mazidi
 
-## Getting Started
+## Technical and Soft Skills  
+### Technical
+- Proficiency in Python
+- NLP libraries (NLTK, TensorFlow, Keras, Seaborn, etc.)
+- NLP implementations (tf-idf, NER, information extraction/processing, Web Scraping, etc.)
+
+### Soft
+- Division of work in small teams
+- Improved researching skills
+- Version management through GitHub and Google Colab history
+- Team communication skills
+
+## Index Page  
 
 [Overview of HLT](https://github.com/AustinGirouard/4395-HLT/blob/main/Assignment%200%20Files/Overview_of_NLP.pdf)
 
